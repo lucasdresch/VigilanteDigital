@@ -6,7 +6,6 @@ public class CameraSpyScript : MonoBehaviour, IAutomatable
     public LayerMask enemyMask;
 
     public bool enemyDetected = false;
-
     public float EnergyCost => 0.2f;
 
     void Update()
