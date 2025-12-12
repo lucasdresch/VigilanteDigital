@@ -1,5 +1,9 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEditor;
+using System.Linq;
 
 public class EnemyBase : MonoBehaviour
 {
@@ -9,6 +13,9 @@ public class EnemyBase : MonoBehaviour
     public int currentIndex = 0;
 
     protected bool canMove = true;
+    public bool primaryWay = true;
+    public List<AlternativeWays> AlternativeWays = new List<AlternativeWays>();
+    public int CurrentAltWayIndex = 0;
 
     private void Update()
     {
@@ -27,8 +34,33 @@ public class EnemyBase : MonoBehaviour
         {
             currentIndex++;
             if (currentIndex >= waypoints.Length)
-                currentIndex = 0; // loop
+            {
+                Debug.Log(waypoints.Length);
+                //CheckWay(CurrentAltWayIndex);
+                CheckNewWays();
+                currentIndex = 0;
+            }
         }
+        
+    }
+
+    // ---------------------------------------------------
+    // ADD NEW WAYPOINTS FOR ALTERNATIVE WAYS
+    // ---------------------------------------------------
+    private void CheckWay(int wayIndex) { 
+
+    }
+
+
+    private void CheckNewWays() { 
+        if (primaryWay) {
+            waypoints = AlternativeWays[CurrentAltWayIndex].PrimaryWay.GetComponent<EnemyPath>().points.ToArray();
+        }
+        else if (!primaryWay) {
+            waypoints = AlternativeWays[CurrentAltWayIndex].SecondaryWay.GetComponent<EnemyPath>().points.ToArray();
+
+        }
+
     }
 
     // ---------------------------------------------------
@@ -89,8 +121,12 @@ public class EnemyBase : MonoBehaviour
         Gizmos.color = Color.yellow;
         for (int i = 0; i < waypoints.Length - 1; i++)
         {
-            Gizmos.DrawLine(waypoints[i].position, waypoints[i + 1].position);
+            //sGizmos.DrawLine(waypoints[i].position, waypoints[i + 1].position);
         }
     }
 }
-
+[System.Serializable]
+public class AlternativeWays {
+    public GameObject PrimaryWay;
+    public GameObject SecondaryWay;
+}
