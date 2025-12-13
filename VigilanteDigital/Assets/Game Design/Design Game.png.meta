@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: edbd7e07e79007349af3927b45d92dae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -535542172520223869
+    second: Design Game_0
+  - first:
+      213: -723708061240310980
+    second: Design Game_1
+  - first:
+      213: 226006425155663507
+    second: Design Game_2
+  - first:
+      213: 6795952690745004011
+    second: Design Game_3
+  - first:
+      213: 6804616606489577290
+    second: Design Game_4
+  - first:
+      213: 5350153944789540789
+    second: Design Game_5
+  - first:
+      213: 2505930737574092200
+    second: Design Game_6
+  - first:
+      213: 4502254906113119461
+    second: Design Game_7
+  - first:
+      213: -2518462300897873385
+    second: Design Game_8
+  - first:
+      213: -8361251385018808097
+    second: Design Game_9
+  - first:
+      213: -7146358096991432647
+    second: Design Game_10
+  - first:
+      213: -7584347309583349118
+    second: Design Game_11
+  - first:
+      213: 125745778856637884
+    second: Design Game_12
+  - first:
+      213: -8970389238729285764
+    second: Design Game_13
+  - first:
+      213: -4461321037363492218
+    second: Design Game_14
+  - first:
+      213: 5954767735380826171
+    second: Design Game_15
+  - first:
+      213: 7488163159078297450
+    second: Design Game_16
+  - first:
+      213: -3038227119672811238
+    second: Design Game_17
+  - first:
+      213: -8624547043483306388
+    second: Design Game_18
+  - first:
+      213: 8944643828328923436
+    second: Design Game_19
+  - first:
+      213: 7151370935922654269
+    second: Design Game_20
+  - first:
+      213: -5124479389015656673
+    second: Design Game_21
+  - first:
+      213: -4138191509619226787
+    second: Design Game_22
+  - first:
+      213: -1797529869810363882
+    second: Design Game_23
+  - first:
+      213: -5065200434031551260
+    second: Design Game_24
+  - first:
+      213: 7008932457259667705
+    second: Design Game_25
+  - first:
+      213: 3659662515980107082
+    second: Design Game_26
+  - first:
+      213: 9212427731173381111
+    second: Design Game_27
+  - first:
+      213: -5672622643676459476
+    second: Design Game_28
+  - first:
+      213: -1371205635358402599
+    second: Design Game_29
+  - first:
+      213: 137701095035913830
+    second: Design Game_30
+  - first:
+      213: -9013517929811730027
+    second: Design Game_31
+  - first:
+      213: 1865091663283371556
+    second: Design Game_32
+  - first:
+      213: 8143997625615358383
+    second: Design Game_33
+  - first:
+      213: 5183540968442671498
+    second: Design Game_34
+  - first:
+      213: 8614334701967194804
+    second: Design Game_35
+  - first:
+      213: -7917333266895349903
+    second: Design Game_36
+  - first:
+      213: 362730501047053089
+    second: Design Game_37
+  - first:
+      213: -6163545333796130320
+    second: Design Game_38
+  - first:
+      213: -7400386384655905306
+    second: Design Game_39
+  - first:
+      213: 4351000226244368912
+    second: Design Game_40
+  - first:
+      213: 2242702457446777296
+    second: Design Game_41
+  - first:
+      213: 6975340025702408564
+    second: Design Game_42
+  - first:
+      213: 6855842745954567434
+    second: Design Game_43
+  - first:
+      213: -5360291622839105578
+    second: Design Game_44
+  - first:
+      213: 6804612670501103691
+    second: Design Game_45
+  - first:
+      213: 3102967621032614794
+    second: Design Game_46
+  - first:
+      213: -1973005075873541016
+    second: Design Game_47
+  - first:
+      213: -1262019575278628495
+    second: Design Game_48
+  - first:
+      213: -5737643945376115498
+    second: Design Game_49
+  - first:
+      213: -7510412963845205230
+    second: Design Game_50
+  - first:
+      213: 5286387888982331557
+    second: Design Game_51
+  - first:
+      213: -8175170287196590275
+    second: Design Game_52
+  - first:
+      213: 3261735994472949535
+    second: Design Game_53
+  - first:
+      213: 412646998794999139
+    second: Design Game_54
+  - first:
+      213: 6547909459145346774
+    second: Design Game_55
+  - first:
+      213: -1229314209815028571
+    second: Design Game_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Design Game_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be0b44b3f5198f0800000000000000
+      internalID: -535542172520223869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c334fa84a5fd4f5f0800000000000000
+      internalID: -723708061240310980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396fb5075afe22300800000000000000
+      internalID: 226006425155663507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef473a37f2105e50800000000000000
+      internalID: 6795952690745004011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47098e40cade6e50800000000000000
+      internalID: 6804616606489577290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1497
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfd5dc9aa09f3a40800000000000000
+      internalID: 5350153944789540789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad16d49abad6c220800000000000000
+      internalID: 2505930737574092200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d12fabf83b7e30800000000000000
+      internalID: 4502254906113119461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f4c671ef9c0dd0800000000000000
+      internalID: -2518462300897873385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd806364a2ed6fb80800000000000000
+      internalID: -8361251385018808097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d61f7c2903dc90800000000000000
+      internalID: -7146358096991432647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1369
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a48173e4cfeb690800000000000000
+      internalID: -7584347309583349118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb531c0ae1dbeb100800000000000000
+      internalID: 125745778856637884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1241
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fdd88b386c28380800000000000000
+      internalID: -8970389238729285764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1241
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ac8f257243612c0800000000000000
+      internalID: -4461321037363492218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d453a4b593a250800000000000000
+      internalID: 5954767735380826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f570d18bc4be760800000000000000
+      internalID: 7488163159078297450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11a1f8288c06d5d0800000000000000
+      internalID: -3038227119672811238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c663884a8247f4880800000000000000
+      internalID: -8624547043483306388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218fedcb22c12c70800000000000000
+      internalID: 8944643828328923436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cf8b40af5ce3360800000000000000
+      internalID: 7151370935922654269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1739e6752132e8b0800000000000000
+      internalID: -5124479389015656673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57cb904fb03296c0800000000000000
+      internalID: -4138191509619226787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1113
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129ccc6b14ed07e0800000000000000
+      internalID: -1797529869810363882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1565ba0bc4b9b0800000000000000
+      internalID: -5065200434031551260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f01ba95feab44160800000000000000
+      internalID: 7008932457259667705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d7ec62babb9c230800000000000000
+      internalID: 3659662515980107082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f31c83463e19df70800000000000000
+      internalID: 9212427731173381111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ec3daa2cbc641b0800000000000000
+      internalID: -5672622643676459476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d2765dbf78fce0800000000000000
+      internalID: -1371205635358402599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6664cc69a6639e100800000000000000
+      internalID: 137701095035913830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_31
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59125f0d23d89e280800000000000000
+      internalID: -9013517929811730027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 985
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e3c8f6cf222e910800000000000000
+      internalID: 1865091663283371556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa99d6611ba450170800000000000000
+      internalID: 8143997625615358383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81b5b61c03afe740800000000000000
+      internalID: 5183540968442671498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba331f45c34c8770800000000000000
+      internalID: 8614334701967194804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177d152775bff1290800000000000000
+      internalID: -7917333266895349903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12beb18087da80500800000000000000
+      internalID: 362730501047053089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1b01ebc20b67aa0800000000000000
+      internalID: -6163545333796130320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed82f5cacb8c4990800000000000000
+      internalID: -7400386384655905306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_40
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 857
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a90f637abd16c30800000000000000
+      internalID: 4351000226244368912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c201b00eaf1f10800000000000000
+      internalID: 2242702457446777296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4716e83ebc26dc060800000000000000
+      internalID: 6975340025702408564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a058f8457a8d42f50800000000000000
+      internalID: 6855842745954567434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d74c284b2b6c95b0800000000000000
+      internalID: -5360291622839105578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b482753eb27de6e50800000000000000
+      internalID: 6804612670501103691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b10317c94ff0b20800000000000000
+      internalID: 3102967621032614794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d380465a7e94e0800000000000000
+      internalID: -1973005075873541016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1719debf1e76c7ee0800000000000000
+      internalID: -1262019575278628495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 601
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49f242b3bcf50b0800000000000000
+      internalID: -5737643945376115498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 601
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21394858337a5c790800000000000000
+      internalID: -7510412963845205230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 601
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a018bbc6c50d5940800000000000000
+      internalID: 5286387888982331557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 601
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fa15d00f5fb8e80800000000000000
+      internalID: -8175170287196590275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 601
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176aa50b93044d20800000000000000
+      internalID: 3261735994472949535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 473
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3659ec452440ab500800000000000000
+      internalID: 412646998794999139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 473
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de47c5f5f8deda50800000000000000
+      internalID: 6547909459145346774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 473
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac92a64d3990fee0800000000000000
+      internalID: -1229314209815028571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 345
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942e9fc07e0dbf4ba86a73ea99e1b94
+      internalID: 1433262684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f605a255a051174bb9ea54c9871ada7
+      internalID: -1301790371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Design Game_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 217
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4accac4bdbc006e47982a86817804414
+      internalID: -1381054549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8c971cc7674c50443b7f219d9f53eb8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Design Game_0: -535542172520223869
+      Design Game_1: -723708061240310980
+      Design Game_10: -7146358096991432647
+      Design Game_11: -7584347309583349118
+      Design Game_12: 125745778856637884
+      Design Game_13: -8970389238729285764
+      Design Game_14: -4461321037363492218
+      Design Game_15: 5954767735380826171
+      Design Game_16: 7488163159078297450
+      Design Game_17: -3038227119672811238
+      Design Game_18: -8624547043483306388
+      Design Game_19: 8944643828328923436
+      Design Game_2: 226006425155663507
+      Design Game_20: 7151370935922654269
+      Design Game_21: -5124479389015656673
+      Design Game_22: -4138191509619226787
+      Design Game_23: -1797529869810363882
+      Design Game_24: -5065200434031551260
+      Design Game_25: 7008932457259667705
+      Design Game_26: 3659662515980107082
+      Design Game_27: 9212427731173381111
+      Design Game_28: -5672622643676459476
+      Design Game_29: -1371205635358402599
+      Design Game_3: 6795952690745004011
+      Design Game_30: 137701095035913830
+      Design Game_31: -9013517929811730027
+      Design Game_32: 1865091663283371556
+      Design Game_33: 8143997625615358383
+      Design Game_34: 5183540968442671498
+      Design Game_35: 8614334701967194804
+      Design Game_36: -7917333266895349903
+      Design Game_37: 362730501047053089
+      Design Game_38: -6163545333796130320
+      Design Game_39: -7400386384655905306
+      Design Game_4: 6804616606489577290
+      Design Game_40: 4351000226244368912
+      Design Game_41: 2242702457446777296
+      Design Game_42: 6975340025702408564
+      Design Game_43: 6855842745954567434
+      Design Game_44: -5360291622839105578
+      Design Game_45: 6804612670501103691
+      Design Game_46: 3102967621032614794
+      Design Game_47: -1973005075873541016
+      Design Game_48: -1262019575278628495
+      Design Game_49: -5737643945376115498
+      Design Game_5: 5350153944789540789
+      Design Game_50: -7510412963845205230
+      Design Game_51: 5286387888982331557
+      Design Game_52: -8175170287196590275
+      Design Game_53: 3261735994472949535
+      Design Game_54: 412646998794999139
+      Design Game_55: 6547909459145346774
+      Design Game_56: -1229314209815028571
+      Design Game_57: 1433262684
+      Design Game_58: -1301790371
+      Design Game_59: -1381054549
+      Design Game_6: 2505930737574092200
+      Design Game_7: 4502254906113119461
+      Design Game_8: -2518462300897873385
+      Design Game_9: -8361251385018808097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
