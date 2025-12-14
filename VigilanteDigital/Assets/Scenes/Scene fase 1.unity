@@ -515,6 +515,61 @@ Transform:
   - {fileID: 59409490}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &270039385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 270039387}
+  - component: {fileID: 270039386}
+  m_Layer: 0
+  m_Name: Node (21)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &270039386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270039385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29923d544732424887bde6b900dfd82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  labelSize: 14
+  connections:
+  - targetNode: {fileID: 0}
+    connectionType: 4
+    weight: 100
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  isGoal: 0
+  isExit: 1
+  exitNode: {fileID: 270039386}
+--- !u!4 &270039387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270039385}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.5, y: -2.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614389399086222370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &314009038
 GameObject:
   m_ObjectHideFlags: 0
@@ -662,6 +717,61 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &374633263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 374633265}
+  - component: {fileID: 374633264}
+  m_Layer: 0
+  m_Name: Node (23)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &374633264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374633263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29923d544732424887bde6b900dfd82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  labelSize: 14
+  connections:
+  - targetNode: {fileID: 1450092290}
+    connectionType: 4
+    weight: 100
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  isGoal: 0
+  isExit: 1
+  exitNode: {fileID: 374633264}
+--- !u!4 &374633265
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 374633263}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.5, y: 1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614389399086222370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &407493352
 GameObject:
   m_ObjectHideFlags: 0
@@ -2347,6 +2457,61 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &859258185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 859258186}
+  - component: {fileID: 859258187}
+  m_Layer: 0
+  m_Name: Node (25)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &859258186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859258185}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.5, y: -5.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614389399086222370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &859258187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859258185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29923d544732424887bde6b900dfd82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  labelSize: 14
+  connections:
+  - targetNode: {fileID: 0}
+    connectionType: 4
+    weight: 100
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  isGoal: 0
+  isExit: 1
+  exitNode: {fileID: 859258187}
 --- !u!1 &961022775
 GameObject:
   m_ObjectHideFlags: 0
@@ -4127,6 +4292,61 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1163198989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1163198991}
+  - component: {fileID: 1163198990}
+  m_Layer: 0
+  m_Name: Node (22)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1163198990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1163198989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29923d544732424887bde6b900dfd82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  labelSize: 14
+  connections:
+  - targetNode: {fileID: 374633264}
+    connectionType: 4
+    weight: 100
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  isGoal: 0
+  isExit: 1
+  exitNode: {fileID: 1163198990}
+--- !u!4 &1163198991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1163198989}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.5, y: 1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614389399086222370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1297037956
 GameObject:
   m_ObjectHideFlags: 0
@@ -4205,6 +4425,61 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!1 &1450092289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1450092291}
+  - component: {fileID: 1450092290}
+  m_Layer: 0
+  m_Name: Node (24)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1450092290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450092289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29923d544732424887bde6b900dfd82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  labelSize: 14
+  connections:
+  - targetNode: {fileID: 6764272218857030535}
+    connectionType: 4
+    weight: 100
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  isGoal: 0
+  isExit: 1
+  exitNode: {fileID: 1450092290}
+--- !u!4 &1450092291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1450092289}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.5, y: -1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614389399086222370}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1532865117
 GameObject:
   m_ObjectHideFlags: 0
@@ -10494,9 +10769,14 @@ MonoBehaviour:
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
   connections:
-  - targetNode: {fileID: 0}
+  - targetNode: {fileID: 270039386}
     connectionType: 4
-    weight: 100
+    weight: 80
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 8734628008257525483}
+    connectionType: 4
+    weight: 20
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -10938,7 +11218,7 @@ Transform:
   m_GameObject: {fileID: 6771366948562507842}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: 1.5, z: 0}
+  m_LocalPosition: {x: -3.5, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10966,13 +11246,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9074204926151343334}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.5, y: -3.5, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: -0.00017452026, w: 1}
+  m_LocalPosition: {x: 7.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6614389399086222370}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.02}
 --- !u!114 &688706964558026582 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2365339591875873378, guid: 63c9d394f1055d6429dd6562ab26457a, type: 3}
@@ -11240,7 +11520,7 @@ MonoBehaviour:
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
   connections:
-  - targetNode: {fileID: 2287185619810264878}
+  - targetNode: {fileID: 4186267827414272175}
     connectionType: 4
     weight: 100
     lineColor: {r: 0, g: 0, b: 0, a: 1}
@@ -11382,14 +11662,9 @@ MonoBehaviour:
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
   connections:
-  - targetNode: {fileID: 8581335882198290392}
-    connectionType: 4
-    weight: 80
-    lineColor: {r: 0, g: 0, b: 0, a: 1}
-    isBlocked: 0
   - targetNode: {fileID: 1155970259708954999}
     connectionType: 4
-    weight: 20
+    weight: 100
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -11818,12 +12093,7 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 8581335882198290392}
     connectionType: 4
-    weight: 70
-    lineColor: {r: 0, g: 0, b: 0, a: 1}
-    isBlocked: 0
-  - targetNode: {fileID: 8077138211955361605}
-    connectionType: 4
-    weight: 30
+    weight: 100
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -12406,7 +12676,7 @@ Transform:
   m_GameObject: {fileID: 6098398897251181756}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.5, y: -1.5, z: 0}
+  m_LocalPosition: {x: 1.5, y: -3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12505,7 +12775,12 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 8734628008257525483}
     connectionType: 4
-    weight: 100
+    weight: 80
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 2617604723535003289}
+    connectionType: 4
+    weight: 20
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -12583,9 +12858,14 @@ MonoBehaviour:
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
   connections:
-  - targetNode: {fileID: 9118620423544450389}
+  - targetNode: {fileID: 2501872014779153525}
     connectionType: 4
-    weight: 100
+    weight: 70
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 4186267827414272175}
+    connectionType: 4
+    weight: 30
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 1
@@ -12630,7 +12910,7 @@ Transform:
   m_GameObject: {fileID: 4330791461234252759}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: 5.5, y: 3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12848,7 +13128,7 @@ Transform:
   m_GameObject: {fileID: 4978241040495684375}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.5, y: 1.5, z: 0}
+  m_LocalPosition: {x: -7.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12906,7 +13186,7 @@ Transform:
   m_GameObject: {fileID: 8966780620386278547}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.5, y: -1.5, z: 0}
+  m_LocalPosition: {x: -0.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12921,7 +13201,7 @@ Transform:
   m_GameObject: {fileID: 3847549223582521483}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: 1.5, z: 0}
+  m_LocalPosition: {x: -7.5, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13288,7 +13568,7 @@ Transform:
   m_GameObject: {fileID: 3126602728531498428}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5, y: -1.5, z: 0}
+  m_LocalPosition: {x: 5.5, y: -3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13805,7 +14085,7 @@ Transform:
   m_GameObject: {fileID: 6492437845332704442}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.5, y: 0.51, z: 0}
+  m_LocalPosition: {x: -0.5, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14261,7 +14541,7 @@ Transform:
   m_GameObject: {fileID: 7604150660593970106}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5, y: 1.5, z: 0}
+  m_LocalPosition: {x: -3.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14304,7 +14584,12 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 5764800422555475155}
     connectionType: 4
-    weight: 100
+    weight: 80
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 2617604723535003289}
+    connectionType: 4
+    weight: 20
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -14611,7 +14896,7 @@ Transform:
   m_GameObject: {fileID: 4565236240652762444}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: 0.53, z: 0}
+  m_LocalPosition: {x: -0.49, y: -3.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14967,7 +15252,7 @@ Transform:
   m_GameObject: {fileID: 1678533987302974098}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.5, y: -1.5, z: 0}
+  m_LocalPosition: {x: -6.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15557,12 +15842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
-  connections:
-  - targetNode: {fileID: 1475022393296930540}
-    connectionType: 4
-    weight: 100
-    lineColor: {r: 0, g: 0, b: 0, a: 1}
-    isBlocked: 0
+  connections: []
   isGoal: 0
   isExit: 0
   exitNode: {fileID: 0}
@@ -15575,7 +15855,7 @@ Transform:
   m_GameObject: {fileID: 5198265419424943242}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: 5.5, y: -0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -15625,7 +15905,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 498567360187547138, guid: dada7dbe840b49b4b952bc521de12a35, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5090493783734387489, guid: dada7dbe840b49b4b952bc521de12a35, type: 3}
       propertyPath: exitNode
@@ -15831,7 +16111,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &6049933507375670317
 GameObject:
   m_ObjectHideFlags: 0
@@ -15990,7 +16270,17 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 1898230536500093319}
     connectionType: 4
-    weight: 100
+    weight: 30
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 2287185619810264878}
+    connectionType: 4
+    weight: 30
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 1163198990}
+    connectionType: 4
+    weight: 40
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -16399,7 +16689,7 @@ Transform:
   m_GameObject: {fileID: 8079717926701285733}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: -4.5, y: -3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16460,6 +16750,11 @@ Transform:
   - {fileID: 4522373187587489639}
   - {fileID: 6520538620032022937}
   - {fileID: 7146787525363166727}
+  - {fileID: 270039387}
+  - {fileID: 1163198991}
+  - {fileID: 374633265}
+  - {fileID: 1450092291}
+  - {fileID: 859258186}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6706608439280326511
@@ -16757,7 +17052,7 @@ Transform:
   m_GameObject: {fileID: 3484050130090952393}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: -1.5, z: 0}
+  m_LocalPosition: {x: -6.5, y: -3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16983,7 +17278,7 @@ Transform:
   m_GameObject: {fileID: 6517825672124989480}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: -4.5, y: -2.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17123,7 +17418,7 @@ Transform:
   m_GameObject: {fileID: 2538023094535098555}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.5, y: -3.5, z: 0}
+  m_LocalPosition: {x: 7.5, y: 5.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17637,7 +17932,7 @@ Transform:
   m_GameObject: {fileID: 1224101293631568114}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: -7.5, y: 3.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17737,7 +18032,7 @@ Transform:
   m_GameObject: {fileID: 7842036598503351936}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: 1.5, y: -1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17760,7 +18055,12 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 6326726172507239991}
     connectionType: 4
-    weight: 100
+    weight: 50
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 1475022393296930540}
+    connectionType: 4
+    weight: 50
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -18180,7 +18480,7 @@ MonoBehaviour:
   nodeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   labelSize: 14
   connections:
-  - targetNode: {fileID: 6764272218857030535}
+  - targetNode: {fileID: 8077138211955361605}
     connectionType: 4
     weight: 100
     lineColor: {r: 0, g: 0, b: 0, a: 1}
@@ -18197,7 +18497,7 @@ Transform:
   m_GameObject: {fileID: 2888808957763550980}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.5, y: 3.5, z: 0}
+  m_LocalPosition: {x: 1.5, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18451,7 +18751,17 @@ MonoBehaviour:
   connections:
   - targetNode: {fileID: 163208751758889594}
     connectionType: 4
-    weight: 100
+    weight: 30
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 859258187}
+    connectionType: 4
+    weight: 20
+    lineColor: {r: 0, g: 0, b: 0, a: 1}
+    isBlocked: 0
+  - targetNode: {fileID: 2501872014779153525}
+    connectionType: 4
+    weight: 10
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
@@ -18475,7 +18785,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &8843046373902082705 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8289513064333305130, guid: dada7dbe840b49b4b952bc521de12a35, type: 3}
@@ -19001,11 +19311,6 @@ MonoBehaviour:
   - targetNode: {fileID: 2617604723535003289}
     connectionType: 4
     weight: 70
-    lineColor: {r: 0, g: 0, b: 0, a: 1}
-    isBlocked: 0
-  - targetNode: {fileID: 2501872014779153525}
-    connectionType: 4
-    weight: 30
     lineColor: {r: 0, g: 0, b: 0, a: 1}
     isBlocked: 0
   isGoal: 0
