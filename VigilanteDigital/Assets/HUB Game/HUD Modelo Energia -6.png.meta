@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 8f8eb37ecb53b7d448d33f70f1b8fefe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7749962598443789845
+    second: HUD Modelo Energia -6_0
+  - first:
+      213: -6988525257426960074
+    second: HUD Modelo Energia -6_1
+  - first:
+      213: 7884417178799399391
+    second: HUD Modelo Energia -6_2
+  - first:
+      213: -7855723695351585791
+    second: HUD Modelo Energia -6_3
+  - first:
+      213: 6410704750956405525
+    second: HUD Modelo Energia -6_4
+  - first:
+      213: -3834385136185532245
+    second: HUD Modelo Energia -6_5
+  - first:
+      213: -8415915066321345423
+    second: HUD Modelo Energia -6_6
+  - first:
+      213: -2074604176741632734
+    second: HUD Modelo Energia -6_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 951
+        width: 203
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d139e31a927490800000000000000
+      internalID: -7749962598443789845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 951
+        width: 201
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631883f1e45c30f90800000000000000
+      internalID: -6988525257426960074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 954
+        width: 207
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1635396a31b6d60800000000000000
+      internalID: 7884417178799399391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 954
+        width: 204
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10423f4abecdaf290800000000000000
+      internalID: -7855723695351585791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 954
+        width: 206
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136aa0710667f850800000000000000
+      internalID: 6410704750956405525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 954
+        width: 202
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0af99b80789cac0800000000000000
+      internalID: -3834385136185532245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_6
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 954
+        width: 205
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174ee0c26d9a43b80800000000000000
+      internalID: -8415915066321345423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia -6_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 954
+        width: 203
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225f5c33e768533e0800000000000000
+      internalID: -2074604176741632734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HUD Modelo Energia -6_0: -7749962598443789845
+      HUD Modelo Energia -6_1: -6988525257426960074
+      HUD Modelo Energia -6_2: 7884417178799399391
+      HUD Modelo Energia -6_3: -7855723695351585791
+      HUD Modelo Energia -6_4: 6410704750956405525
+      HUD Modelo Energia -6_5: -3834385136185532245
+      HUD Modelo Energia -6_6: -8415915066321345423
+      HUD Modelo Energia -6_7: -2074604176741632734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

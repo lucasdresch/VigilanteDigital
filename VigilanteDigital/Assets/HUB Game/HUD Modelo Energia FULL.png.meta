@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 06cd768a7aec5b042a4787f672326ea4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 789198537144906075
+    second: HUD Modelo Energia FULL_0
+  - first:
+      213: -6275637293855389987
+    second: HUD Modelo Energia FULL_1
+  - first:
+      213: -7015775436903896377
+    second: HUD Modelo Energia FULL_2
+  - first:
+      213: -3432665777870600636
+    second: HUD Modelo Energia FULL_3
+  - first:
+      213: 8288649793196537631
+    second: HUD Modelo Energia FULL_4
+  - first:
+      213: -2289598695190521249
+    second: HUD Modelo Energia FULL_5
+  - first:
+      213: 6450054091752224554
+    second: HUD Modelo Energia FULL_6
+  - first:
+      213: 2946102561081877381
+    second: HUD Modelo Energia FULL_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 951
+        width: 203
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b7cf53ebc3fa00800000000000000
+      internalID: 789198537144906075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 951
+        width: 201
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd64e88812578e8a0800000000000000
+      internalID: -6275637293855389987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 951
+        width: 207
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caae6b4965f2ae90800000000000000
+      internalID: -7015775436903896377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 951
+        width: 204
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446026d79a8bc50d0800000000000000
+      internalID: -3432665777870600636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 951
+        width: 206
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17381f5213370370800000000000000
+      internalID: 8288649793196537631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 951
+        width: 202
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a98f61e16b930e0800000000000000
+      internalID: -2289598695190521249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_6
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 951
+        width: 205
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2732f8c502338950800000000000000
+      internalID: 6450054091752224554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Modelo Energia FULL_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 954
+        width: 203
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58367219ba8a2e820800000000000000
+      internalID: 2946102561081877381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HUD Modelo Energia FULL_0: 789198537144906075
+      HUD Modelo Energia FULL_1: -6275637293855389987
+      HUD Modelo Energia FULL_2: -7015775436903896377
+      HUD Modelo Energia FULL_3: -3432665777870600636
+      HUD Modelo Energia FULL_4: 8288649793196537631
+      HUD Modelo Energia FULL_5: -2289598695190521249
+      HUD Modelo Energia FULL_6: 6450054091752224554
+      HUD Modelo Energia FULL_7: 2946102561081877381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
