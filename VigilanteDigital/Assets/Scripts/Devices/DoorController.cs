@@ -14,6 +14,8 @@ public class DoorController : MonoBehaviour
     private bool algoNoTrigger = false;
     private bool inimigoVistoPorCamera = false;
 
+    private bool portaForcadaFechada = false;
+
     private BoxCollider2D trigger;
 
     private void Start()
@@ -23,6 +25,14 @@ public class DoorController : MonoBehaviour
 
     private void Update()
     {
+        // --- PRIORIDADE 0: FORÇADO PELO JOGADOR ---
+        if (portaForcadaFechada)
+        {
+            Fechar();
+            Consumir(consumoNormal);
+            return;
+        }
+
         // --- PRIORIDADE 1: CÂMERA ---
         if (controladoPorCamera && inimigoVistoPorCamera)
         {
@@ -49,6 +59,8 @@ public class DoorController : MonoBehaviour
         {
             Fechar();
         }
+
+
     }
 
     private void Consumir(float amount)
@@ -86,4 +98,14 @@ public class DoorController : MonoBehaviour
     {
         inimigoVistoPorCamera = detected;
     }
+
+    public void ToggleDoor()
+    {
+        portaForcadaFechada = !portaForcadaFechada;
+
+        Debug.Log(
+            $"Porta '{name}' forçada {(portaForcadaFechada ? "FECHADA" : "AUTOMÁTICA")}"
+        );
+    }
+
 }
