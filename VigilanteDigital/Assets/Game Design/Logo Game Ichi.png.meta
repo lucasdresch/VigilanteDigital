@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -121,10 +121,10 @@ TextureImporter:
       name: Logo Game Ichi_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 37
-        width: 244
-        height: 426
+        x: 0
+        y: 0
+        width: 630
+        height: 500
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,143 +139,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_1
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 316
-        width: 100
-        height: 142
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9f5bbcbb197190c0800000000000000
-      internalID: -4570738986766868577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_2
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 102
-        width: 293
-        height: 294
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e785ae189bf3bf5b0800000000000000
-      internalID: -5333599267709101954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_3
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 395
-        width: 183
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e4cf172981be54a0800000000000000
-      internalID: -6602644801053539102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_4
-      rect:
-        serializedVersion: 2
-        x: 376
-        y: 38
-        width: 250
-        height: 426
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0024b6629f54c9400800000000000000
-      internalID: 332217408912310784
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_5
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 32
-        width: 151
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e3eb538c960a6530800000000000000
-      internalID: 3848896100830012391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Logo Game Ichi_6
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 33
-        width: 106
-        height: 125
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68c2386cb2c76e3e0800000000000000
-      internalID: -2024794455000535930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 00c5cbb83e891b34f99857315f59801a
     internalID: 0
     vertices: []
     indices: 
@@ -286,12 +154,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Logo Game Ichi_0: 8992490855776218358
-      Logo Game Ichi_1: -4570738986766868577
-      Logo Game Ichi_2: -5333599267709101954
-      Logo Game Ichi_3: -6602644801053539102
-      Logo Game Ichi_4: 332217408912310784
-      Logo Game Ichi_5: 3848896100830012391
-      Logo Game Ichi_6: -2024794455000535930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
