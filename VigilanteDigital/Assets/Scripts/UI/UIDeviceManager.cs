@@ -5,47 +5,67 @@ public class UIDeviceManager : MonoBehaviour
     [Header("Painéis")]
     public GameObject doorConfigPanel;
 
-    private IDevice lastSelectedDevice = null;
+    private DoorController selectedDoor;
 
-    private void Update()
+    public DevicePanelUI devicePanelUI;
+
+
+    /// <summary>
+    /// Chame este método ao clicar em um dispositivo
+    /// </summary>
+    public void OpenPanelForDevice(IDevice device)
     {
-        var selectedDevice = DeviceSelectionManager.Instance.GetSelectedDevice();
-
-        // só reage se a seleção mudou
-        if (selectedDevice == lastSelectedDevice)
-            return;
-
-        lastSelectedDevice = selectedDevice;
-
-        if (selectedDevice == null)
+        CloseAllPanels();
+        Debug.Log($"Tentando ativar painel: {doorConfigPanel} " +
+            $"| activeSelf = {doorConfigPanel.activeSelf} " +
+            $"| activeInHierarchy = {doorConfigPanel.activeInHierarchy}" +
+            $"| idevice = {device.GetDeviceName()}");
+        devicePanelUI = doorConfigPanel.GetComponent<DevicePanelUI>();
+        if (device is UIDoorManager uiDoor)
         {
-            Debug.Log("Nenhum dispositivo selecionado");
-            CloseAllPanels();
-            return;
+            Debug.Log("é idevice");
+            selectedDoor = uiDoor.door;
+            if (doorConfigPanel != null) { 
+                doorConfigPanel.SetActive(true);
+                Debug.Log("Abrindo painel: " + doorConfigPanel.name +
+                          " | activeSelf = " + doorConfigPanel.activeSelf +
+                          " | activeInHierarchy = " + doorConfigPanel.activeInHierarchy);
+                if (devicePanelUI != null && selectedDoor != null) {
+                    devicePanelUI.deviceNameText.text = selectedDoor.name;
+                }
+            }
         }
-
-        Debug.Log("Dispositivo selecionado: " + selectedDevice.GetDeviceName());
-
-        // Porta
-        if (selectedDevice is DoorController)
-        {
-            OpenDoorPanel();
-        }
-        else
-        {
-            CloseAllPanels();
+        else {
+            selectedDoor = null;
         }
     }
-
-    private void OpenDoorPanel()
+    public void TestActivatePanel()
     {
-        if (doorConfigPanel != null)
-            doorConfigPanel.SetActive(true);
+        Debug.Log($"Testando ativar painel: {doorConfigPanel} " +
+                $"| activeSelf = {doorConfigPanel.activeSelf}");
+        doorConfigPanel.SetActive(true);
     }
-
-    private void CloseAllPanels()
+    /// <summary>
+    /// Fecha todos os painéis
+    /// </summary>
+    public void CloseAllPanels()
     {
+        Debug.Log("Entrou no close");
         if (doorConfigPanel != null)
+        {
             doorConfigPanel.SetActive(false);
+            Debug.Log("CloseAllPanels chamado - desativando: " + doorConfigPanel.name +
+                      " | activeSelf = " + doorConfigPanel.activeSelf +
+                      " | activeInHierarchy = " + doorConfigPanel.activeInHierarchy);
+        }
+    }
+
+    /// <summary>
+    /// Retorna a porta atualmente selecionada
+    /// </summary>
+    public DoorController GetSelectedDoor()
+    {
+        return selectedDoor;
     }
 }
+
