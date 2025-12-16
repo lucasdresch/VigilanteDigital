@@ -925,8 +925,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.931, y: -144.4403}
-  m_SizeDelta: {x: 886.0999, y: 659.1614}
+  m_AnchoredPosition: {x: 16.933, y: -109.5687}
+  m_SizeDelta: {x: 954.3, y: 760.1375}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &451513305
 MonoBehaviour:
@@ -962,7 +962,16 @@ MonoBehaviour:
     Fonte
 
 
-    https://www.dafont.com/pt/origin-tech.font'
+    https://www.dafont.com/pt/origin-tech.font
+
+
+    BGM
+
+
+    https://freesound.org/people/SilverIllusionist/
+
+
+    https://freesound.org/people/Universfield/'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f84ede292f909f744b82153ca4ff31c8, type: 2}
   m_sharedMaterial: {fileID: -4539909679394202778, guid: f84ede292f909f744b82153ca4ff31c8, type: 2}
@@ -989,8 +998,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 57.5
-  m_fontSizeBase: 57.5
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1608,7 +1617,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &837265908
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2988,8 +2997,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 180
-  m_fontSizeBase: 180
+  m_fontSize: 140
+  m_fontSizeBase: 140
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

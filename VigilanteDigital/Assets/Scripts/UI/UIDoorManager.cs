@@ -2,22 +2,21 @@ using UnityEngine;
 
 public class UIDoorManager : MonoBehaviour, IDevice
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public DoorController door;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     private void OnMouseDown()
     {
-        Debug.Log("Porta clicada: " + gameObject.name);
+        Debug.Log("Porta clicada: " + name);
+
+        // Seleciona no DeviceSelectionManager
         DeviceSelectionManager.Instance.SelectDevice(this);
 
+        // PELO UIDeviceManager, abre o painel
+        UIDeviceManager deviceManager = FindObjectOfType<UIDeviceManager>();
+        if (deviceManager != null)
+        {
+            deviceManager.OpenPanelForDevice(this);
+        }
     }
     public string GetDeviceName()
     {
@@ -34,5 +33,9 @@ public class UIDoorManager : MonoBehaviour, IDevice
         Debug.Log("Porta desselecionada");
     }
 
+    public DoorController GetDoor()
+    {
+        return door;
+    }
 
 }
